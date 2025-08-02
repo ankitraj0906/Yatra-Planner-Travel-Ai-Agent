@@ -93,8 +93,8 @@ Travel AI Agent Bot is a smart AI travel agent powered by **IBM Watsonx.ai** and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/travel-ai-agent-bot.git
-   cd travel-ai-agent-bot
+   git clone https://github.com/your-org/yatra-planner-travel-ai-agent.git
+   cd yatra-planner-travel-ai-agent
    ```
 
 2. **Configure IBM Cloud credentials**  
