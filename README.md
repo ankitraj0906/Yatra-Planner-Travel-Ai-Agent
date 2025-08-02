@@ -1,12 +1,12 @@
 # Yatra-Planner-Travel-Ai-Agent
 An intelligent, AI-powered travel assistant that helps users plan, book, and manage their trips through natural, conversational interaction. Built using IBM Cloud and Granite LLM, the bot offers personalized recommendations, real-time travel updates, itinerary management, and 24/7 support—all in one place.
-🧩 Problem Statement
+#🧩 Problem Statement
 Planning a trip can be overwhelming, especially for travelers unfamiliar with digital tools or navigating foreign destinations. Users often face difficulties comparing options, managing bookings, understanding travel restrictions, or handling disruptions like delays and cancellations—leading to stress, poor planning, and missed opportunities.
 
-💡 Proposed Solution
+#💡 Proposed Solution
 A smart AI travel agent powered by IBM Watsonx.ai and Granite LLM, capable of delivering reliable, document-based answers to travel-related queries. Using Retrieval-Augmented Generation (RAG) and multilingual capabilities, the bot offers personalized recommendations, real-time updates, and grounded support throughout the user’s travel journey.
 
-🧠 Technologies Used
+#🧠 Technologies Used
 IBM Watsonx.ai Studio
 
 IBM Granite Foundation Model (LLM)
@@ -19,7 +19,7 @@ Natural Language Processing (NLP)
 
 IBM Cloud Object Storage
 
-☁️ IBM Cloud Services Used
+#☁️ IBM Cloud Services Used
 Watsonx.ai Studio
 
 IBM Granite Model
@@ -32,7 +32,7 @@ IBM Cloud IAM
 
 IBM Cloud Object Storage
 
-👥 End Users
+#👥 End Users
 Leisure travelers planning personal vacations
 
 Business travelers needing real-time, efficient assistance
@@ -47,7 +47,7 @@ NGOs or organizations helping rural travelers or migrants
 
 Customer support centers offering AI-driven travel help
 
-🌟 WOW Factors
+#🌟 WOW Factors
 Uses RAG to pull responses from real travel documents (e.g., booking FAQs, advisories, or uploaded PDFs)
 
 Built entirely on IBM Cloud using Watsonx tools
@@ -60,7 +60,7 @@ Multilingual-ready for international users
 
 Supports the entire travel lifecycle—from inspiration to post-trip feedback
 
-🧪 Key Features
+#🧪 Key Features
 Personalized travel Q&A via Vector Index
 
 Built on IBM Granite LLM for human-like conversation
@@ -73,7 +73,7 @@ Gracefully responds to irrelevant or unsupported queries
 
 Guides users through itinerary creation and optimization
 
-🚀 How It Works
+#🚀 How It Works
 User submits a travel query (e.g., “Best places to visit in Japan in November”)
 
 IBM Granite LLM processes the question and intent
